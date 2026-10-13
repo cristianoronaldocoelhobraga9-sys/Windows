@@ -1,0 +1,11 @@
+{
+  "appId": "com.exemplo.desktop",
+  "appName": "Desktop Samsung",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
